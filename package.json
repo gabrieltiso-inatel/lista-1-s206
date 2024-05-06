@@ -1,0 +1,21 @@
+{
+  "name": "lista-1-s206",
+  "version": "1.0.0",
+  "description": "- Criação de 6 casos de testes (pelo menos um negativo) - Geração de relatórios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "mochawesome": "^7.1.3",
+    "mochawesome-merge": "^4.3.0",
+    "mochawesome-report-generator": "^6.2.0"
+  },
+  "dependencies": {
+    "cypress": "^13.8.1"
+  }
+}
